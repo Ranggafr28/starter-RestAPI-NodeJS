@@ -1,1 +1,1 @@
-# starter-RestAPI-NodeJS
+# starter-nodejs-api
